@@ -1,0 +1,139 @@
+{
+  "banks": [
+    {
+      "id": 1,
+      "bank_name": "ICICI Bank",
+      "country": "India",
+      "bank_code": "ICICI0001",
+      "address": "ICICI bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "bank_name": "SBI Bank",
+      "country": "India",
+      "bank_code": "SBI0001",
+      "address": "SBI bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "bank_name": "AXIS Bank",
+      "country": "India",
+      "bank_code": "AXIS0001",
+      "address": "AXIS bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "bank_name": "HDFC Bank",
+      "country": "India",
+      "bank_code": "HDFC0001",
+      "address": "HDFC bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "bank_name": "Kotak Bank",
+      "country": "India",
+      "bank_code": "KOTAK0001",
+      "address": "Kotak bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "bank_name": "Punjab National Bank",
+      "country": "India",
+      "bank_code": "PNB0001",
+      "address": "Punjab National bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "bank_name": "State Bank of India",
+      "country": "India",
+      "bank_code": "SBI0001",
+      "address": "State Bank of India bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "bank_name": "Union Bank of India",
+      "country": "India",
+      "bank_code": "UBI0001",
+      "address": "Union Bank of India bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 9,
+      "bank_name": "State Bank of Bikaner and Jaipur",
+      "country": "India",
+      "bank_code": "SBBI0001",
+      "address": "State Bank of Bikaner and Jaipur bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "bank_name": "State Bank of Hyderabad",
+      "country": "India",
+      "bank_code": "SBH0001",
+      "address": "State Bank of Hyderabad bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 11,
+      "bank_name": "State Bank of Patiala",
+      "country": "India",
+      "bank_code": "SBP0001",
+      "address": "State Bank of Patiala bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 12,
+      "bank_name": "State Bank of Travancore",
+      "country": "India",
+      "bank_code": "SBT0001",
+      "address": "State Bank of Travancore bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 13,
+      "bank_name": "State Bank of Bikaner and Jaipur",
+      "country": "India",
+      "bank_code": "SBBI0001",
+      "address": "State Bank of Bikaner and Jaipur bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 14,
+      "bank_name": "State Bank of Hyderabad",
+      "country": "India",
+      "bank_code": "SBH0001",
+      "address": "State Bank of Hyderabad bank address",
+      "phone": "9876543210",
+      "status": "active"
+    },
+    {
+      "id": 15,
+      "bank_name": "State Bank of Patiala",
+      "country": "India",
+      "bank_code": "SBP0001",
+      "address": "State Bank of Patiala bank address",
+      "phone": "9876543210",
+      "status": "active"
+    }
+  ]
+}
